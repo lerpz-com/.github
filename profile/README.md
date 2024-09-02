@@ -1,6 +1,6 @@
 # LERPZ-COM
 
-## 🙋‍♀️ Introduction
+## 🙋‍♂️ Introduction
 
 This orginization is a experimental platform used for most of my sideprojects.
 Lerpz is a name that i use for my sideprojects and is not a real business.
