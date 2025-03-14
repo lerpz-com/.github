@@ -1,4 +1,4 @@
-# LERPZ-COM
+# Lerpz
 
 ## 🙋‍♂️ Introduction
 
