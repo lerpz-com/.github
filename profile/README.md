@@ -1,4 +1,8 @@
-# Lerpz
+<p align="center">
+  <img src="Lerpz@128x128.png" />
+</p>
+
+
 
 ## 🙋‍♂️ Introduction
 
