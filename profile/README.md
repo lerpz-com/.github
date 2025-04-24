@@ -2,12 +2,10 @@
   <img src="Lerpz@128x128.png" />
 </p>
 
-
-
 ## 🙋‍♂️ Introduction
 
 This orginization is a experimental platform used for most of my sideprojects.
-Lerpz is a name that i use for my sideprojects and is not a real business.
+Lerpz is a name that i use for these projects and is not a real business.
 
 Everything in this orginization (should) use the [lerpz.com](https://lerpz.com/) domain.
 
