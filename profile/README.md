@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Introduction
 
-This orginization is a experimental platform used for most of my sideprojects.
+This orginization is an experimental platform used for most of my sideprojects.
 Lerpz is a name that i use for these projects and is not a real business.
 
 Everything in this orginization (should) use the [lerpz.com](https://lerpz.com/) domain.
